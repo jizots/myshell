@@ -1,7 +1,7 @@
 ## Minishell Project README
 
 # Overview
-The Minishell project challenges you to create your own shell program, similar to Bash.  
+The Minishell project to create my own shell program, similar to Bash.  
 It's designed to deepen your understanding of processes, file descriptors, and the Unix environment.  
 This project is an opportunity to explore how shells operate, manage command execution, and handle user input, thereby providing a practical framework for understanding the inner workings of shell environments.  
 
